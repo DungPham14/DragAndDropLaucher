@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,10,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,4,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,400,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,63,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,459,-1"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "202,242,286,325,367,409,451,500,564",
+                        "endColumns": "39,43,38,41,41,41,48,63,74",
+                        "endOffsets": "237,281,320,362,404,446,495,559,634"
+                    }
+                },
+                {
+                    "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,152",
+                        "endColumns": "46,49,49",
+                        "endOffsets": "97,147,197"
+                    }
+                },
+                {
+                    "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "14,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "639,722",
+                        "endLines": "16,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "717,789"
+                    }
+                }
+            ]
+        }
+    ]
+}

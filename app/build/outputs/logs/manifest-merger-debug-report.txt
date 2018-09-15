@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:10:5-33:19
+	android:label
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:14:9-40
+activity#bruce.example.draganddrop.DesktopActivity
+ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:15:9-32:20
+	android:clearTaskOnLaunch
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:21:13-45
+	android:stateNotNeeded
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:22:13-42
+	android:label
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:19:13-45
+	android:launchMode
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:20:13-44
+	android:configChanges
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:16:13-63
+	android:theme
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:17:13-70
+	android:name
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:18:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:25:27-74
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.HOME
+ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:27:13-31:29
+category#android.intent.category.HOME
+ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:29:17-73
+	android:name
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:29:27-70
+category#android.intent.category.DEFAULT
+ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from D:\AppData\AndroidStudioProjects\DragAndDropLaucher\app\src\main\AndroidManifest.xml:30:27-73

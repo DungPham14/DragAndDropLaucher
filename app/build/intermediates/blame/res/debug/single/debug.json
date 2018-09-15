@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\layout_desktop_layout.xml.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\layout\\desktop_layout.xml"
+    },
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\layout_desktop_item_slot.xml.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\layout\\desktop_item_slot.xml"
+    },
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\layout_desktop_page.xml.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\layout\\desktop_page.xml"
+    },
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\layout_desktop_item_tiny_app.xml.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\layout\\desktop_item_tiny_app.xml"
+    },
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_folder_bg.xml.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\drawable-ldpi\\folder_bg.xml"
+    },
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_unlink.png.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\drawable-hdpi\\ic_unlink.png"
+    },
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\layout_desktop_item_dir.xml.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\layout\\desktop_item_dir.xml"
+    },
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\layout_desktop_item_app.xml.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\layout\\desktop_item_app.xml"
+    },
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\layout_shortcut_page.xml.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\layout\\shortcut_page.xml"
+    },
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_slot_bg.xml.flat",
+        "source": "D:\\AppData\\AndroidStudioProjects\\DragAndDropLaucher\\app\\src\\main\\res\\drawable-ldpi\\slot_bg.xml"
+    }
+]

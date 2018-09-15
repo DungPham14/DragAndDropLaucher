@@ -1,0 +1,13 @@
+<resources>
+    <item type="id" name="view_holder1" />
+    <item type="id" name="view_holder2" />
+    <item type="id" name="view_holder3" />
+    <item type="id" name="pos_extra" />
+    <item type="id" name="group_name" />
+    <item type="id" name="index_in_group" />
+    
+    <string name="app_name">DragAndDrop</string>
+    <string name="grid_item_label_loading">loading…\nPlease wait!</string>
+    <string name="grid_item_folder_unnamed">new folder</string>
+
+</resources>
